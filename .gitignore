@@ -1,0 +1,7 @@
+# Ignore secret files
+.env
+birthdays.csv
+
+# Python cache files
+__pycache__/
+*.pyc
